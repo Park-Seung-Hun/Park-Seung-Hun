@@ -1,6 +1,6 @@
 # About Seung-Hun Park
 
-### [Explore projects](https://github.com/Park-Seung-Hun/Web)
+### [My projects](https://github.com/Park-Seung-Hun/Web)
 
 ### Stack
 #### Programming language
